@@ -4,3 +4,5 @@ Welcome! I'm using this space to track my thoughts on the 2026 Pulitzer Prize wi
 
 ### My Journal Entries:
 * [May 6: Thoughts on the Pulitzer Winners](./Journal/2026-05-06-Book-Journal)
+
+* [#Architecture](./Architecture/2026-05-07-ARE-Notes)
